@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 Please refer to the points stated herein below which may help to understand as to how I have approached the project and done the work accordingly;
 
-1. Kindly note that I have mentioned the libraries required to run our code.
+1. Kindly note that I have mentioned the libraries required to run my code.
 
 2. I imported the json file. After importing same I have used the python package "NLTK" for tokenization. 
 
